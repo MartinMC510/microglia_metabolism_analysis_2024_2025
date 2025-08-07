@@ -6,3 +6,5 @@ Following that section, you will find additional graphs generated throughout the
 All graphs created within the notebook are organized in the "graphs" folder based on their corresponding biological parameter (e.g., AB, pH, mean integrity of the BBB, and types of treatments). These graphs were compared to the binary values representing the metabolic booster, as defined in an earlier version of the NetLogo model. Files labeled with "v3" indicate the specific image files that were included in the final submission.
 
 The graphs related to treatment data were generated using values for both the metabolic booster and exercise parameters, which were selected via the dropdown menu in the final NetLogo model.
+
+**08-07-2025:** To address reviewer comments, a new notebook titled `figures_v2.ipynb` contains modified code from the previous two notebooks.
